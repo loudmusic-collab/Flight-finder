@@ -4,37 +4,37 @@
       "origin": "JFK",
       "destination": "CDG",
       "trip_length": 7,
-      "updated_at": "2026-09-20",
+      "updated_at": "2026-09-21",
       "windows": [
+        {
+          "depart": "2026-10-22",
+          "return": "2026-10-29",
+          "price": 701
+        },
+        {
+          "depart": "2026-10-21",
+          "return": "2026-10-28",
+          "price": 739
+        },
         {
           "depart": "2026-10-12",
           "return": "2026-10-19",
-          "price": 761
+          "price": 760
+        },
+        {
+          "depart": "2026-10-18",
+          "return": "2026-10-25",
+          "price": 776
         },
         {
           "depart": "2026-10-13",
           "return": "2026-10-20",
-          "price": 775
+          "price": 776
         },
         {
           "depart": "2026-10-19",
           "return": "2026-10-26",
           "price": 786
-        },
-        {
-          "depart": "2026-10-18",
-          "return": "2026-10-25",
-          "price": 804
-        },
-        {
-          "depart": "2026-10-06",
-          "return": "2026-10-13",
-          "price": 813
-        },
-        {
-          "depart": "2026-10-17",
-          "return": "2026-10-24",
-          "price": 814
         },
         {
           "depart": "2026-10-20",
@@ -44,17 +44,17 @@
         {
           "depart": "2026-10-14",
           "return": "2026-10-21",
-          "price": 837
+          "price": 838
+        },
+        {
+          "depart": "2026-10-06",
+          "return": "2026-10-13",
+          "price": 840
         },
         {
           "depart": "2026-10-01",
           "return": "2026-10-08",
-          "price": 842
-        },
-        {
-          "depart": "2026-10-21",
-          "return": "2026-10-28",
-          "price": 851
+          "price": 844
         }
       ]
     },
@@ -62,37 +62,12 @@
       "origin": "JFK",
       "destination": "LIS",
       "trip_length": 10,
-      "updated_at": "2026-09-20",
+      "updated_at": "2026-09-21",
       "windows": [
-        {
-          "depart": "2026-10-16",
-          "return": "2026-10-26",
-          "price": 731
-        },
-        {
-          "depart": "2026-10-17",
-          "return": "2026-10-27",
-          "price": 774
-        },
-        {
-          "depart": "2026-10-14",
-          "return": "2026-10-24",
-          "price": 776
-        },
-        {
-          "depart": "2026-10-18",
-          "return": "2026-10-28",
-          "price": 783
-        },
         {
           "depart": "2026-10-13",
           "return": "2026-10-23",
           "price": 795
-        },
-        {
-          "depart": "2026-10-05",
-          "return": "2026-10-15",
-          "price": 825
         },
         {
           "depart": "2026-10-12",
@@ -100,19 +75,44 @@
           "price": 825
         },
         {
-          "depart": "2026-10-06",
-          "return": "2026-10-16",
-          "price": 827
+          "depart": "2026-10-17",
+          "return": "2026-10-27",
+          "price": 834
         },
         {
           "depart": "2026-10-10",
           "return": "2026-10-20",
-          "price": 833
+          "price": 836
+        },
+        {
+          "depart": "2026-10-18",
+          "return": "2026-10-28",
+          "price": 843
         },
         {
           "depart": "2026-10-15",
           "return": "2026-10-25",
           "price": 847
+        },
+        {
+          "depart": "2026-10-16",
+          "return": "2026-10-26",
+          "price": 850
+        },
+        {
+          "depart": "2026-10-19",
+          "return": "2026-10-29",
+          "price": 860
+        },
+        {
+          "depart": "2026-10-09",
+          "return": "2026-10-19",
+          "price": 860
+        },
+        {
+          "depart": "2026-10-11",
+          "return": "2026-10-21",
+          "price": 860
         }
       ]
     },
@@ -120,7 +120,7 @@
       "origin": "SFO",
       "destination": "NRT",
       "trip_length": 14,
-      "updated_at": "2026-09-20",
+      "updated_at": "2026-09-21",
       "windows": [
         {
           "depart": "2026-10-13",
