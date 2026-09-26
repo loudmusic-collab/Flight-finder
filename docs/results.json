@@ -4,7 +4,7 @@
       "origin": "JFK",
       "destination": "CDG",
       "trip_length": 7,
-      "updated_at": "2026-09-25",
+      "updated_at": "2026-09-26",
       "windows": [
         {
           "depart": "2026-10-13",
@@ -14,7 +14,7 @@
         {
           "depart": "2026-10-12",
           "return": "2026-10-19",
-          "price": 759
+          "price": 740
         },
         {
           "depart": "2026-10-06",
@@ -32,29 +32,29 @@
           "price": 810
         },
         {
-          "depart": "2026-10-07",
-          "return": "2026-10-14",
-          "price": 842
-        },
-        {
-          "depart": "2026-10-14",
-          "return": "2026-10-21",
-          "price": 845
-        },
-        {
           "depart": "2026-10-21",
           "return": "2026-10-28",
           "price": 848
         },
         {
-          "depart": "2026-10-04",
-          "return": "2026-10-11",
-          "price": 851
-        },
-        {
           "depart": "2026-10-08",
           "return": "2026-10-15",
           "price": 861
+        },
+        {
+          "depart": "2026-10-07",
+          "return": "2026-10-14",
+          "price": 872
+        },
+        {
+          "depart": "2026-10-18",
+          "return": "2026-10-25",
+          "price": 873
+        },
+        {
+          "depart": "2026-10-14",
+          "return": "2026-10-21",
+          "price": 901
         }
       ]
     },
@@ -62,7 +62,7 @@
       "origin": "JFK",
       "destination": "LIS",
       "trip_length": 10,
-      "updated_at": "2026-09-25",
+      "updated_at": "2026-09-26",
       "windows": [
         {
           "depart": "2026-10-18",
@@ -77,7 +77,12 @@
         {
           "depart": "2026-10-16",
           "return": "2026-10-26",
-          "price": 790
+          "price": 769
+        },
+        {
+          "depart": "2026-10-19",
+          "return": "2026-10-29",
+          "price": 788
         },
         {
           "depart": "2026-10-15",
@@ -90,7 +95,7 @@
       "origin": "SFO",
       "destination": "NRT",
       "trip_length": 14,
-      "updated_at": "2026-09-25",
+      "updated_at": "2026-09-26",
       "windows": []
     }
   ]
