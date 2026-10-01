@@ -4,57 +4,57 @@
       "origin": "JFK",
       "destination": "CDG",
       "trip_length": 7,
-      "updated_at": "2026-09-30",
+      "updated_at": "2026-10-01",
       "windows": [
         {
-          "depart": "2026-10-13",
-          "return": "2026-10-20",
-          "price": 761
+          "depart": "2026-11-15",
+          "return": "2026-11-22",
+          "price": 648
         },
         {
-          "depart": "2026-10-20",
-          "return": "2026-10-27",
-          "price": 785
+          "depart": "2026-11-16",
+          "return": "2026-11-23",
+          "price": 649
         },
         {
-          "depart": "2026-10-12",
-          "return": "2026-10-19",
-          "price": 793
+          "depart": "2026-11-05",
+          "return": "2026-11-12",
+          "price": 693
         },
         {
-          "depart": "2026-10-06",
-          "return": "2026-10-13",
-          "price": 800
+          "depart": "2026-11-14",
+          "return": "2026-11-21",
+          "price": 698
         },
         {
-          "depart": "2026-10-21",
-          "return": "2026-10-28",
-          "price": 853
+          "depart": "2026-11-18",
+          "return": "2026-11-25",
+          "price": 714
         },
         {
-          "depart": "2026-10-17",
-          "return": "2026-10-24",
-          "price": 878
+          "depart": "2026-11-10",
+          "return": "2026-11-17",
+          "price": 717
         },
         {
-          "depart": "2026-10-05",
-          "return": "2026-10-12",
-          "price": 884
+          "depart": "2026-11-17",
+          "return": "2026-11-24",
+          "price": 720
         },
         {
-          "depart": "2026-10-19",
-          "return": "2026-10-26",
-          "price": 885
+          "depart": "2026-11-13",
+          "return": "2026-11-20",
+          "price": 721
         },
         {
-          "depart": "2026-10-23",
-          "return": "2026-10-30",
-          "price": 894
+          "depart": "2026-11-12",
+          "return": "2026-11-19",
+          "price": 722
         },
         {
-          "depart": "2026-10-08",
-          "return": "2026-10-15",
-          "price": 907
+          "depart": "2026-11-11",
+          "return": "2026-11-18",
+          "price": 725
         }
       ]
     },
@@ -62,57 +62,12 @@
       "origin": "JFK",
       "destination": "LIS",
       "trip_length": 10,
-      "updated_at": "2026-09-30",
+      "updated_at": "2026-10-01",
       "windows": [
         {
-          "depart": "2026-10-17",
-          "return": "2026-10-27",
-          "price": 696
-        },
-        {
-          "depart": "2026-10-13",
-          "return": "2026-10-23",
-          "price": 762
-        },
-        {
-          "depart": "2026-10-14",
-          "return": "2026-10-24",
-          "price": 762
-        },
-        {
-          "depart": "2026-10-15",
-          "return": "2026-10-25",
-          "price": 762
-        },
-        {
-          "depart": "2026-10-16",
-          "return": "2026-10-26",
-          "price": 762
-        },
-        {
-          "depart": "2026-10-18",
-          "return": "2026-10-28",
-          "price": 794
-        },
-        {
-          "depart": "2026-10-12",
-          "return": "2026-10-22",
-          "price": 796
-        },
-        {
-          "depart": "2026-10-19",
-          "return": "2026-10-29",
-          "price": 837
-        },
-        {
-          "depart": "2026-10-04",
-          "return": "2026-10-14",
-          "price": 850
-        },
-        {
-          "depart": "2026-10-05",
-          "return": "2026-10-15",
-          "price": 863
+          "depart": "2026-11-03",
+          "return": "2026-11-13",
+          "price": 680
         }
       ]
     },
@@ -120,14 +75,8 @@
       "origin": "SFO",
       "destination": "NRT",
       "trip_length": 14,
-      "updated_at": "2026-09-30",
-      "windows": [
-        {
-          "depart": "2026-10-16",
-          "return": "2026-10-30",
-          "price": 1179
-        }
-      ]
+      "updated_at": "2026-10-01",
+      "windows": []
     }
   ]
 }
