@@ -4,17 +4,17 @@
       "origin": "JFK",
       "destination": "CDG",
       "trip_length": 7,
-      "updated_at": "2026-10-20",
+      "updated_at": "2026-10-21",
       "windows": [
         {
           "depart": "2026-11-10",
           "return": "2026-11-17",
-          "price": 686
+          "price": 701
         },
         {
           "depart": "2026-11-11",
           "return": "2026-11-18",
-          "price": 724
+          "price": 729
         },
         {
           "depart": "2026-11-18",
@@ -24,7 +24,7 @@
         {
           "depart": "2026-11-09",
           "return": "2026-11-16",
-          "price": 742
+          "price": 745
         },
         {
           "depart": "2026-11-08",
@@ -32,9 +32,9 @@
           "price": 759
         },
         {
-          "depart": "2026-11-13",
-          "return": "2026-11-20",
-          "price": 761
+          "depart": "2026-11-16",
+          "return": "2026-11-23",
+          "price": 760
         },
         {
           "depart": "2026-11-14",
@@ -52,9 +52,9 @@
           "price": 777
         },
         {
-          "depart": "2026-11-19",
-          "return": "2026-11-26",
-          "price": 795
+          "depart": "2026-11-07",
+          "return": "2026-11-14",
+          "price": 789
         }
       ]
     },
@@ -62,57 +62,57 @@
       "origin": "JFK",
       "destination": "LIS",
       "trip_length": 10,
-      "updated_at": "2026-10-20",
+      "updated_at": "2026-10-21",
       "windows": [
         {
           "depart": "2026-11-11",
           "return": "2026-11-21",
-          "price": 747
-        },
-        {
-          "depart": "2026-11-10",
-          "return": "2026-11-20",
-          "price": 797
-        },
-        {
-          "depart": "2026-11-14",
-          "return": "2026-11-24",
-          "price": 803
-        },
-        {
-          "depart": "2026-11-13",
-          "return": "2026-11-23",
-          "price": 811
-        },
-        {
-          "depart": "2026-11-06",
-          "return": "2026-11-16",
-          "price": 818
+          "price": 744
         },
         {
           "depart": "2026-11-15",
           "return": "2026-11-25",
-          "price": 818
+          "price": 760
+        },
+        {
+          "depart": "2026-11-10",
+          "return": "2026-11-20",
+          "price": 794
         },
         {
           "depart": "2026-11-16",
           "return": "2026-11-26",
-          "price": 818
+          "price": 795
         },
         {
           "depart": "2026-11-17",
           "return": "2026-11-27",
-          "price": 818
-        },
-        {
-          "depart": "2026-11-07",
-          "return": "2026-11-17",
-          "price": 823
+          "price": 795
         },
         {
           "depart": "2026-11-08",
           "return": "2026-11-18",
-          "price": 842
+          "price": 809
+        },
+        {
+          "depart": "2026-11-13",
+          "return": "2026-11-23",
+          "price": 823
+        },
+        {
+          "depart": "2026-11-14",
+          "return": "2026-11-24",
+          "price": 823
+        },
+        {
+          "depart": "2026-11-18",
+          "return": "2026-11-28",
+          "price": 860
+        },
+        {
+          "depart": "2026-11-09",
+          "return": "2026-11-19",
+          "price": 868
         }
       ]
     },
@@ -120,34 +120,8 @@
       "origin": "SFO",
       "destination": "NRT",
       "trip_length": 14,
-      "updated_at": "2026-10-20",
-      "windows": [
-        {
-          "depart": "2026-11-05",
-          "return": "2026-11-19",
-          "price": 822
-        },
-        {
-          "depart": "2026-11-03",
-          "return": "2026-11-17",
-          "price": 919
-        },
-        {
-          "depart": "2026-11-04",
-          "return": "2026-11-18",
-          "price": 919
-        },
-        {
-          "depart": "2026-11-02",
-          "return": "2026-11-16",
-          "price": 937
-        },
-        {
-          "depart": "2026-11-01",
-          "return": "2026-11-15",
-          "price": 981
-        }
-      ]
+      "updated_at": "2026-10-21",
+      "windows": []
     }
   ]
 }
