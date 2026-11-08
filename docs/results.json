@@ -4,12 +4,12 @@
       "origin": "JFK",
       "destination": "CDG",
       "trip_length": 7,
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-08",
       "windows": [
         {
           "depart": "2026-12-07",
           "return": "2026-12-14",
-          "price": 669
+          "price": 658
         },
         {
           "depart": "2026-12-08",
@@ -19,12 +19,12 @@
         {
           "depart": "2026-12-09",
           "return": "2026-12-16",
-          "price": 690
+          "price": 688
         },
         {
           "depart": "2026-12-06",
           "return": "2026-12-13",
-          "price": 703
+          "price": 698
         },
         {
           "depart": "2026-12-03",
@@ -34,7 +34,7 @@
         {
           "depart": "2026-12-05",
           "return": "2026-12-12",
-          "price": 730
+          "price": 725
         },
         {
           "depart": "2026-12-04",
@@ -62,17 +62,12 @@
       "origin": "JFK",
       "destination": "LIS",
       "trip_length": 10,
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-08",
       "windows": [
         {
           "depart": "2026-12-05",
           "return": "2026-12-15",
           "price": 639
-        },
-        {
-          "depart": "2026-12-06",
-          "return": "2026-12-16",
-          "price": 650
         },
         {
           "depart": "2026-12-02",
@@ -82,7 +77,7 @@
         {
           "depart": "2026-12-04",
           "return": "2026-12-14",
-          "price": 727
+          "price": 723
         },
         {
           "depart": "2026-12-03",
@@ -90,28 +85,33 @@
           "price": 738
         },
         {
+          "depart": "2026-12-06",
+          "return": "2026-12-16",
+          "price": 763
+        },
+        {
           "depart": "2026-12-08",
           "return": "2026-12-18",
-          "price": 791
+          "price": 794
         },
         {
           "depart": "2026-12-07",
           "return": "2026-12-17",
-          "price": 793
+          "price": 802
         },
         {
-          "depart": "2026-12-14",
-          "return": "2026-12-24",
-          "price": 1008
+          "depart": "2026-12-09",
+          "return": "2026-12-19",
+          "price": 835
         },
         {
-          "depart": "2026-12-12",
-          "return": "2026-12-22",
+          "depart": "2026-12-15",
+          "return": "2026-12-25",
           "price": 1015
         },
         {
-          "depart": "2026-12-13",
-          "return": "2026-12-23",
+          "depart": "2026-12-16",
+          "return": "2026-12-26",
           "price": 1015
         }
       ]
@@ -120,7 +120,7 @@
       "origin": "SFO",
       "destination": "NRT",
       "trip_length": 14,
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-08",
       "windows": [
         {
           "depart": "2026-12-02",
@@ -143,34 +143,34 @@
           "price": 820
         },
         {
-          "depart": "2026-12-06",
-          "return": "2026-12-20",
-          "price": 837
-        },
-        {
           "depart": "2026-12-04",
           "return": "2026-12-18",
           "price": 854
         },
         {
+          "depart": "2026-12-06",
+          "return": "2026-12-20",
+          "price": 917
+        },
+        {
           "depart": "2026-12-07",
           "return": "2026-12-21",
-          "price": 986
+          "price": 1024
         },
         {
           "depart": "2026-12-08",
           "return": "2026-12-22",
-          "price": 986
+          "price": 1024
         },
         {
           "depart": "2026-12-09",
           "return": "2026-12-23",
-          "price": 1134
+          "price": 1131
         },
         {
           "depart": "2026-12-10",
           "return": "2026-12-24",
-          "price": 1374
+          "price": 1364
         }
       ]
     }
